@@ -7,6 +7,10 @@ CIn - UFPE
 - Joao Victor Santos (jvos)
 - Wendell Júnior (wjoj)
 
+## Versão live
+
+O projeto está disponível em versão live, neste link https://jvvosantos.github.io/pg-projeto2/
+
 
 ## Criação e manipulação de múltiplas curvas de bézier
 
