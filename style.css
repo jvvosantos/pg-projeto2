@@ -1,0 +1,19 @@
+body{
+    overflow: hidden;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.box {
+    margin: 5px;
+}
+
+.canvas {
+    background-color: gray;
+}
